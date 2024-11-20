@@ -23,7 +23,7 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- The model achieved a high accuracy of 90% on the validation set after addressing class imbalance.
+- The model achieved a high accuracy of 90% on the validation set after addressing class imbalance. Also, the model performs excellently in detecting melanoma skin cancer, with a specific accuracy of 78% for the `melanoma` class.
 - Data augmentation techniques, particularly rotation, significantly improved the model's performance.
 - The class re-balancing strategy effectively resolved the initial underfitting problem.
 - The model shows good generalization, with similar training and validation accuracies.
